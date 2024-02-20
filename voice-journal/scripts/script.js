@@ -25,6 +25,14 @@ new Vue({
           url: "https://lu143.github.io/HBDNethmi/voice-journal/mp3/2.mp3",
           favorited: true
         },
+        {
+          name: "අයියාගෙන් නංගීට Episode 03 ❤",
+          artist: "2024 February 21",
+          cover: "https://lu143.github.io/HBDNethmi/voice-journal/img/3.jpg",
+          source: "https://lu143.github.io/HBDNethmi/voice-journal/mp3/3.mp3",
+          url: "https://lu143.github.io/HBDNethmi/voice-journal/mp3/3.mp3",
+          favorited: true
+                },
 
       ],
       currentTrack: null,
