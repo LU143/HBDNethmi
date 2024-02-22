@@ -15,7 +15,7 @@ new Vue({
           cover: "https://lu143.github.io/HBDNethmi/voice-journal/img/1.jpg",
           source: "https://lu143.github.io/HBDNethmi/voice-journal/mp3/1.mp3",
           url: "https://lu143.github.io/HBDNethmi/voice-journal/mp3/1.mp3",
-          favorited: false
+          favorited: true
         },
         {
           name: "අයියාගෙන් නංගීට Episode 02 ❤",
@@ -41,6 +41,15 @@ new Vue({
           url: "https://lu143.github.io/HBDNethmi/voice-journal/mp3/4.mp3",
           favorited: true
                 },
+        {
+          name: "අයියාගෙන් නංගීට Episode 05 ❤",
+          artist: "2024 February 23",
+          cover: "https://lu143.github.io/HBDNethmi/voice-journal/img/5.jpg",
+          source: "https://lu143.github.io/HBDNethmi/voice-journal/mp3/5.mp3",
+          url: "https://lu143.github.io/HBDNethmi/voice-journal/mp3/5.mp3",
+          favorited: true
+                },
+
 
       ],
       currentTrack: null,
